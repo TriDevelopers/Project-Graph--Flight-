@@ -1,0 +1,5 @@
+4
+Billings|Chicago|T
+El Paso|Billings|C
+Billings|Detroit|C
+Billings|Detroit|T

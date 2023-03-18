@@ -1,0 +1,11 @@
+10
+Austin|Billings|12|21
+Billings|El Paso|10|43
+Billings|Detroit|1|52
+El Paso|Greensboro|7|53
+Greensboro|Fresno|15|12
+Fresno|Chicago|8|2
+Chicago|Detroit|2|24
+Detroit|Austin|17|25
+Detroit|Fresno|3|2
+Greensboro|Chicago|2|82
