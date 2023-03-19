@@ -1,0 +1,20 @@
+
+Flight 1: Billings, Chicago (Time)
+Path 1: Billings --> Austin --> Detroit --> Fresno --> Chicago. Time: 50 Cost: 40.00
+Path 2: Billings --> Detroit --> Fresno --> Chicago. Time: 56 Cost: 12.00
+Path 3: Billings --> Austin --> Detroit --> Chicago. Time: 70 Cost: 31.00
+
+Flight 2: El Paso, Billings (Cost)
+Path 1: El Paso --> Billings. Time: 43 Cost: 10.00
+Path 2: El Paso --> Greensboro --> Chicago --> Detroit --> Billings. Time: 211 Cost: 12.00
+Path 3: El Paso --> Greensboro --> Chicago --> Fresno --> Detroit --> Billings. Time: 191 Cost: 21.00
+
+Flight 3: Billings, Detroit (Cost)
+Path 1: Billings --> Detroit. Time: 52 Cost: 1.00
+Path 2: Billings --> El Paso --> Greensboro --> Chicago --> Detroit. Time: 202 Cost: 21.00
+Path 3: Billings --> Austin --> Detroit. Time: 46 Cost: 29.00
+
+Flight 4: Billings, Detroit (Time)
+Path 1: Billings --> Austin --> Detroit. Time: 46 Cost: 29.00
+Path 2: Billings --> Detroit. Time: 52 Cost: 1.00
+Path 3: Billings --> El Paso --> Greensboro --> Fresno --> Detroit. Time: 110 Cost: 35.00
